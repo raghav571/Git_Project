@@ -1,2 +1,2 @@
 # Git_Project
-Git Training
+Git Training for Myself
